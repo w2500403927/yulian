@@ -1,2 +1,2 @@
-Gti is a version control system
-Git is free software 
+Gti is a version control system.
+Git is free software.
